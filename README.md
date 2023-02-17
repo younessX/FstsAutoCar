@@ -2,6 +2,6 @@
 Android application to drive an Electric car and control a water pump 
 
 ------------------------------------------
-<img src="images\pic1.png" width="200" height="500">
+<img src="images\pic1.png" width="300" height="auto">
 
 ----------------------------------------------
