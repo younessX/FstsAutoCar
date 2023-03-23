@@ -19,6 +19,6 @@ This project involves building an automated watering vehicle using an Arduino bo
 <img src="https://user-images.githubusercontent.com/100499106/225136525-bbb78746-ef24-4741-8e8a-b20b03a754b9.jpg" alt="example" width="250"/>
 
 ## Demo
-<img src=https://user-images.githubusercontent.com/86500959/225410274-bae1de5c-a8f9-49b8-a2a0-a8e950c32ba1.mp4>5
+<img src=https://user-images.githubusercontent.com/86500959/225410274-bae1de5c-a8f9-49b8-a2a0-a8e950c32ba1.mp4>
 
 
