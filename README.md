@@ -1,5 +1,7 @@
 # Project Title: Automated Watering Vehicle with Arduino
 
+Download the app on [Google Play Store](https://play.google.com/store/apps/details?id=com.cars.fstsautocar).
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Project Objectives](#project-objectives)
